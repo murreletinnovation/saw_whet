@@ -1,0 +1,3 @@
+/home/aadithya/projects/saw_whet/CMakeFiles/rebuild_cache.dir
+/home/aadithya/projects/saw_whet/CMakeFiles/cat-recognition.dir
+/home/aadithya/projects/saw_whet/CMakeFiles/edit_cache.dir

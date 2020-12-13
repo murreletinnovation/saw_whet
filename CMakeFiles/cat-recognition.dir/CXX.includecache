@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aadithya/projects/saw_whet/cat-recognition.cpp
+jetson-inference/imageNet.h
+-
+jetson-utils/loadImage.h
+-
+
